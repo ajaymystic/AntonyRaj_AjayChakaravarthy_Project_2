@@ -15,7 +15,7 @@
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/ajaymystic/Multimedia_Authoring2_Interactive-SVG-Icons_Hw1.git
+   git clone https://github.com/ajaymystic/AntonyRaj_AjayChakaravarthy_Project_2.git
    ```
 2. Open the `main.html` file in any web browser.
 
