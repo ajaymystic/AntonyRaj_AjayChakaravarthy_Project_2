@@ -1,4 +1,4 @@
-# Web_Developement1_Practice Scaffold_Hw2
+# Web_Development1_Practice Scaffold_Hw2
 
 - This repository was built for homework 2 in Web Developement 1.
  
